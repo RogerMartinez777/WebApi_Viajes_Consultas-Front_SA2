@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Viajes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "Create",
+    "RelativePath": "api/Viajes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "viaje",
+        "Type": "ViajesRepository.Domain.Viaje",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "GetById",
+    "RelativePath": "api/Viajes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "Delete",
+    "RelativePath": "api/Viajes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "UpdateEstado",
+    "RelativePath": "api/Viajes/{id}/estado",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ViajesWebApi_Repaso.DTOs.ActualizarEstadoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "GetExcursiones",
+    "RelativePath": "api/Viajes/excursiones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViajesWebApi_Repaso.Controllers.ViajesController",
+    "Method": "GetNoCancelados",
+    "RelativePath": "api/Viajes/no-cancelados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

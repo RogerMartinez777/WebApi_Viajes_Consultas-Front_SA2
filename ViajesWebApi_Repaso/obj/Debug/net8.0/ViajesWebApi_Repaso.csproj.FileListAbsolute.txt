@@ -1,0 +1,537 @@
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.sourcelink.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.sourcelink.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.runtime.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.runtime.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.Development.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\appsettings.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.endpoints.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.staticwebassets.runtime.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.exe
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.deps.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.runtimeconfig.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesWebApi_Repaso.pdb
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Core.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Azure.Identity.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\bin\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.AssemblyReference.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfoInputs.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.AssemblyInfo.cs
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.csproj.CoreCompileInputs.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cs
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.MvcApplicationPartsAssemblyInfo.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\scopedcss\bundle\ViajesWebApi_Repaso.styles.css
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.development.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\swae.build.ex.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWe.1A6FEC76.Up2Date
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\refint\ViajesWebApi_Repaso.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.pdb
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ViajesWebApi_Repaso.genruntimeconfig.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesWebApi_Repaso\obj\Debug\net8.0\ref\ViajesWebApi_Repaso.dll

@@ -1,0 +1,88 @@
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes2026\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.sourcelink.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRe.DA124439.Up2Date
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.sourcelink.json
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Viajes_WebApi\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_Repaso\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_conFront\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.deps.json
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\bin\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.AssemblyReference.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfoInputs.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.AssemblyInfo.cs
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.csproj.CoreCompileInputs.cache
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\refint\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRepository.pdb
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ref\ViajesRepository.dll
+D:\UTN\Prog II - 2026\Front ---\Viajes_WebApi_ConsultasFront_y_SA2\ViajesRepository\obj\Debug\net8.0\ViajesRe.DA124439.Up2Date
