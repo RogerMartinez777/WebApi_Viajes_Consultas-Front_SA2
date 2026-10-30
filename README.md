@@ -74,23 +74,36 @@ Si optás por el enfoque con **DataHelper / ADO.NET**, completá los siguientes 
 5. `PUT /api/viajes/{id}/estado` – Actualizar el estado de un viaje (ej. de 'Pendiente' a 'Confirmado').
 
 ---
-## 🚀 Tareas a Desarrollar parte 2 - Login + JWT
 
-1 En la capa de Datos (ViajesRepository):
-•	Se necesita incorporar entidades y modelos relacionados con los usuarios (por ejemplo, una clase Usuario con propiedades como email/nombre de usuario y contraseña hasheada).
-•	Crear su respectivo repositorio e interfaz para gestionar la consulta y el registro de usuarios en la base de datos a través de Entity Framework.
-2 En el proyecto Web API (ViajesWebApi):
-•	Configuración de Autenticación: Configurar en el archivo Program.cs el esquema de autenticación por JWT, indicando la clave secreta, el emisor y la audiencia.
-•	Controlador de Autenticación: Crear un controlador (AuthController) con un endpoint de tipo POST (ej. /api/login) que reciba las credenciales, las valide contra la base de datos y, si son correctas, devuelva el token JWT firmado.
-•	Protección de Endpoints: Utilizar la etiqueta [Authorize] en los controladores para asegurar que solo las peticiones que incluyan un token válido en los headers puedan acceder a los recursos.
-3 En el Front-end (wwwroot):
-•	Modificar los archivos JavaScript para que, al momento de iniciar sesión, capturen el token devuelto por la API y lo almacenen (por ejemplo, en localStorage o sessionStorage).
-•	Configurar las peticiones subsiguientes (con fetch o axios) para que incluyan el token en la cabecera HTTP (Authorization: Bearer <token>).
-4 Subir la resolución a Gitea en su repositorio personal.
+## 🔒 Tareas a Desarrollar - Parte 2: Autenticación y Seguridad (Login + JWT)
 
+Para incorporar la capa de autenticación basada en **JWT (JSON Web Tokens)** en el proyecto, completá los siguientes pasos según cada capa del sistema:
 
 ---
 
+### 1️⃣ Capa de Datos (`ViajesRepository`)
+* **Entidades de Dominio:** Incorporar la clase `Usuario` con las propiedades requeridas para las credenciales (ej. `Id`, `NombreUsuario`, `Email`, `PasswordHash`).
+* **Mapeo en el DbContext:** Registrar el `DbSet<Usuario>` dentro de `ViajeDbContext`.
+* **Repositorio de Usuarios:** Crear la interfaz `IUsuarioRepository` y su implementación `UsuarioRepository` con los métodos necesarios para la validación de credenciales y consulta de usuarios mediante Entity Framework.
+
+---
+
+### 2️⃣ Proyecto Web API (`ViajesWebApi_Repaso`)
+* **Configuración de Autenticación (`Program.cs`):** 
+  * Configurar el servicio de autenticación con `JwtBearerDefaults.AuthenticationScheme`.
+  * Definir los `TokenValidationParameters` estableciendo la clave secreta (`IssuerSigningKey`), el emisor (`ValidIssuer`) y la audiencia (`ValidAudience`).
+* **Controlador de Autenticación (`AuthController.cs`):**
+  * Implementar el endpoint `POST /api/auth/login` (o `/api/login`) recibiendo un DTO de credenciales (`UserLoginDTO`).
+  * Validar los datos contra el repositorio y, en caso de ser exitoso, generar y retornar el token JWT firmado con sus correspondientes *claims* (ej. usuario, rol) y tiempo de expiración.
+* **Protección de Endpoints:**
+  * Aplicar el atributo `[Authorize]` sobre las acciones o controladores de la API (ej. `ViajesController`) que requieran que el usuario esté autenticado para acceder a los recursos.
+
+---
+
+### 3️⃣ Front-End (`wwwroot`)
+* **Gestión del Inicio de Sesión:** Modificar o crear la interfaz de login para realizar la petición `POST` con las credenciales y capturar el token retornado.
+* **Almacenamiento del Token:** Guardar el JWT en el almacenamiento del cliente (`localStorage` o `sessionStorage`).
+* **Envío de Peticiones Autenticadas:** Configurar las llamadas
 ## 🛠️ Requisitos Previos
 
 1. La BD ya está creada en el Servidor de la Facu, Si lo vas a hacer en local: Ejecutar el script `viajes_script.sql` en SQL Server para crear la base de datos `db_Viajes` con sus datos iniciales y Stored Procedures.
