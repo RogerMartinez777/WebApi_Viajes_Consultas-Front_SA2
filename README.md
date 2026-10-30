@@ -74,6 +74,22 @@ Si optás por el enfoque con **DataHelper / ADO.NET**, completá los siguientes 
 5. `PUT /api/viajes/{id}/estado` – Actualizar el estado de un viaje (ej. de 'Pendiente' a 'Confirmado').
 
 ---
+## 🚀 Tareas a Desarrollar parte 2 - Login + JWT
+
+1 En la capa de Datos (ViajesRepository):
+•	Se necesita incorporar entidades y modelos relacionados con los usuarios (por ejemplo, una clase Usuario con propiedades como email/nombre de usuario y contraseña hasheada).
+•	Crear su respectivo repositorio e interfaz para gestionar la consulta y el registro de usuarios en la base de datos a través de Entity Framework.
+2 En el proyecto Web API (ViajesWebApi):
+•	Configuración de Autenticación: Configurar en el archivo Program.cs el esquema de autenticación por JWT, indicando la clave secreta, el emisor y la audiencia.
+•	Controlador de Autenticación: Crear un controlador (AuthController) con un endpoint de tipo POST (ej. /api/login) que reciba las credenciales, las valide contra la base de datos y, si son correctas, devuelva el token JWT firmado.
+•	Protección de Endpoints: Utilizar la etiqueta [Authorize] en los controladores para asegurar que solo las peticiones que incluyan un token válido en los headers puedan acceder a los recursos.
+3 En el Front-end (wwwroot):
+•	Modificar los archivos JavaScript para que, al momento de iniciar sesión, capturen el token devuelto por la API y lo almacenen (por ejemplo, en localStorage o sessionStorage).
+•	Configurar las peticiones subsiguientes (con fetch o axios) para que incluyan el token en la cabecera HTTP (Authorization: Bearer <token>).
+4 Subir la resolución a Gitea en su repositorio personal.
+
+
+---
 
 ## 🛠️ Requisitos Previos
 
